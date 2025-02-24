@@ -1,10 +1,11 @@
 ## Hi there! 👋 I'm Raghu Yalakapati  
-Passionate and results-driven Full-Stack Developer with expertise in Java, Spring Boot, ReactJS, and database management. Skilled in developing efficient and scalable applications while leveraging AI-driven solutions to enhance performance. Adept at collaborating in agile environments, optimizing backend processes with Redis caching, and integrating AI models for innovative solutions. Seeking an opportunity to contribute technical expertise and problem-solving skills to build impactful, high-performing applications in a dynamic and growth-oriented organization.
 
----
-### 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghu-yalakapati-312492283/)  
-📧 **Email**: yalakapatiraghu@gmail.com  
+* Passionate Full-Stack Developer with expertise in **Java, Spring Boot, ReactJS, and database management**.  
+* Skilled in developing **efficient, scalable, and high-performance applications**.  
+* Experienced in **RESTful API development** and **backend optimization using Redis caching**.  
+* Proficient in integrating **AI-driven solutions** to enhance application functionality.  
+* Strong understanding of **agile methodologies** and effective **collaboration in team environments**.  
+* Seeking an opportunity to contribute **technical expertise and problem-solving skills** to build impactful applications in a **dynamic organization**.  
 
 ---
 
@@ -17,12 +18,10 @@ Passionate and results-driven Full-Stack Developer with expertise in Java, Sprin
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  ![Groq](https://img.shields.io/badge/Groq-FF4C00?style=for-the-badge&logo=groq&logoColor=white)  ![LLaMA](https://img.shields.io/badge/LLaMA-0084FF?style=for-the-badge&logo=meta&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 
---- 
-
 ---
 
-### 🔥 Fun Fact  
-⚡ *"I love problem-solving and continuously learning new technologies to build innovative solutions!"*  
+### 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghu-yalakapati-312492283/) 
 
 ---
 
