@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm Raghu Yalakapati  
-
+Passionate and results-driven Full-Stack Developer with expertise in Java, Spring Boot, ReactJS, and database management. Skilled in developing efficient and scalable applications while leveraging AI-driven solutions to enhance performance. Adept at collaborating in agile environments, optimizing backend processes with Redis caching, and integrating AI models for innovative solutions. Seeking an opportunity to contribute technical expertise and problem-solving skills to build impactful, high-performing applications in a dynamic and growth-oriented organization.
 
 ### 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghu-yalakapati-312492283/)  
