@@ -21,7 +21,8 @@
 ---
 
 ### 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghu-yalakapati-312492283/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghu-yalakapati-312492283/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)]([https://raghuyalakapati.github.io/](https://raghuyalakapati.github.io/my_portfilo/)   
+
 
 ---
 
